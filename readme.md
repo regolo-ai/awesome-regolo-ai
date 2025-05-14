@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://github.com/regolo-ai/assets/blob/main/regolo_logo.png?raw=true" height="200px"></p>
 
-* [#sdk](SDK)
-* [#official-integrations](Official Integrations)
+* [SDK](#sdk)
+* [Official Integrations](#official-integrations)
 
 ## SDK
 
