@@ -4,6 +4,8 @@
 
 * [SDK](#sdk)
 * [Official Integrations](#official-integrations)
+* [Seamless and Easy Integrations](#seamless-and-easy-integrations)
+* [Built with Regolo](#built-with-regolo)
 
 ## SDK
 
@@ -12,4 +14,15 @@
 ## Official Integrations
 
 * [Cheshire Cat Plugin](https://github.com/regolo-ai/cheshirecat-plugin) - [Cheshire Cat plugin](https://cheshire-cat-ai.github.io/) for regolo.ai
-* [MaxKB](https://maxkb.pro/) - MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities. 
+* [MaxKB](https://maxkb.pro/) - MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
+
+## Seamless and Easy Integrations
+
+* [Open WebUI](https://regolo.ai/integrating-open-webui-with-an-openai-compatible-ai-service/) - User-friendly AI Interface
+* [n8n](https://regolo.ai/regolo-and-n8n-building-an-ai-email-summarizer/) - Flexible AI workflow automation
+* [Aider](https://regolo.ai/ai-in-your-terminal-with-aider-and-regolo-ai/) - AI Pair Programming in Your Terminal
+* [Roo Code](https://regolo.ai/roo-code-ai-powered-autonomous-coding-in-vscode/) - A whole dev team of AI agents in your VS Code
+
+## Built with Regolo
+
+* [Chat mii-llm](https://chat.mii-llm.ai/) - A chat application with support for multiple AI models
