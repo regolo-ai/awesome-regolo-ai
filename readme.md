@@ -13,7 +13,7 @@
 
 ## Official Integrations
 
-* [Cheshire Cat Plugin](https://github.com/regolo-ai/cheshirecat-plugin) - [Cheshire Cat plugin](https://cheshire-cat-ai.github.io/) for regolo.ai
+* [Cheshire Cat Plugin](https://github.com/regolo-ai/cheshirecat-plugin) - Regolo.ai integration for the [Cheshire Cat AI](https://cheshire-cat-ai.github.io/) agent framework.
 * [MaxKB](https://maxkb.pro/) - MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 
 ## Seamless and Easy Integrations
