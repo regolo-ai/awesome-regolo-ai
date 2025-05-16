@@ -25,4 +25,4 @@
 
 ## Built with Regolo
 
-* [Chat mii-llm](https://chat.mii-llm.ai/) - A chat application exposing mii-llm specialized models
+* [Chat mii-llm](https://chat.mii-llm.ai/) - A chat application exposing [mii-llm](https://www.mii-llm.ai/) specialized models
