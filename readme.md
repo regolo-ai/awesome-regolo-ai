@@ -22,6 +22,7 @@
 * [n8n](https://regolo.ai/regolo-and-n8n-building-an-ai-email-summarizer/) - Flexible AI workflow automation
 * [Aider](https://regolo.ai/ai-in-your-terminal-with-aider-and-regolo-ai/) - AI Pair Programming in Your Terminal
 * [Roo Code](https://regolo.ai/roo-code-ai-powered-autonomous-coding-in-vscode/) - A whole dev team of AI agents in your VS Code
+* [Plandex](https://regolo.ai/handling-big-projects-with-ai-in-your-terminal-with-plandex/) - Open source AI coding agent. Designed for large projects and real world tasks.
 
 ## Built with Regolo
 
