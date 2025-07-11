@@ -23,6 +23,7 @@
 * [Aider](https://regolo.ai/ai-in-your-terminal-with-aider-and-regolo-ai/) - AI Pair Programming in Your Terminal
 * [Roo Code](https://regolo.ai/roo-code-ai-powered-autonomous-coding-in-vscode/) - A whole dev team of AI agents in your VS Code
 * [Plandex](https://regolo.ai/handling-big-projects-with-ai-in-your-terminal-with-plandex/) - Open source AI coding agent. Designed for large projects and real world tasks.
+* [Flowise](https://regolo.ai/seamlessly-integrating-regolo-ai-with-flowise/) - Build AI Agents and Workflows Visually
 
 ## Built with Regolo
 
