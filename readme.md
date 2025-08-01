@@ -28,3 +28,4 @@
 ## Built with Regolo
 
 * [Chat mii-llm](https://chat.mii-llm.ai/) - A chat application exposing [mii-llm](https://www.mii-llm.ai/) specialized models
+* [TelegramTranscriber](https://github.com/regolo-ai/TelegramTranscriber) - A Telegram bot that transcribe vocal messages
