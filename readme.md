@@ -46,3 +46,4 @@
 * [Ai Agent SAAS](https://github.com/giux78/ai-agent-saas) - SaaS Starter to accelerate your development and saas journey
 * [SAGIM](https://github.com/teddyhoss/SAGIM) - Piattaforma di intelligenza artificiale progettata per supportare le aziende nella loro espansione e gestione dei mercati globali.
 * [Emergency Management System](https://github.com/matraxone/Emergency-Manager-Project) - Emergency management, featuring AI-powered emergency classification, interactive mapping, and real-time emergency call tracking
+* [PicoCode](https://github.com/CodeAtCode/PicoCode) -  Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally 
