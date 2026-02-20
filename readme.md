@@ -35,6 +35,10 @@
 * [openBB](https://regolo.ai/wolf-of-wall-street-with-regolo-openbb-trading-agent-%F0%9F%92%B8/) - Wolf of Wall Street – trading agent 💸
 * [Plandex](https://regolo.ai/handling-big-projects-with-ai-in-your-terminal-with-plandex/) - AI coding agent for large projects
 * [Roo Code](https://regolo.ai/roo-code-ai-powered-autonomous-coding-in-vscode/) - AI‑powered autonomous coding in VS Code
+* [hyprwhspr](https://regolo.ai/dictation-tool-on-linux-hyprwhspr-regolo-whisper/) - Linux Dictation tool
+* [opencode](https://regolo.ai/private-ai-coding-deploy-without-giving-away-your-code/) - Coding gent tool
+* [OpenClaw](https://regolo.ai/build-an-internal-knowledge-bot-with-clawdbot-embeddings-rerank-chat-in-30-minutes/) - Personal AI assistant
+* [crewAI](https://regolo.ai/build-multi-agent-workflows-with-crewai-teams/) - Agent workflows
 
 ## Built with Regolo
 
@@ -46,4 +50,5 @@
 * [Ai Agent SAAS](https://github.com/giux78/ai-agent-saas) - SaaS Starter to accelerate your development and saas journey
 * [SAGIM](https://github.com/teddyhoss/SAGIM) - Piattaforma di intelligenza artificiale progettata per supportare le aziende nella loro espansione e gestione dei mercati globali.
 * [Emergency Management System](https://github.com/matraxone/Emergency-Manager-Project) - Emergency management, featuring AI-powered emergency classification, interactive mapping, and real-time emergency call tracking
-* [PicoCode](https://github.com/CodeAtCode/PicoCode) -  Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally 
+* [PicoCode](https://github.com/CodeAtCode/PicoCode) -  Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally
+* [llama-index-email-demo](https://github.com/regolo-ai/llamaindex-email-demo) - With [blog post](https://regolo.ai/privacy-first-email-search-building-a-rag-system-with-llamaindex/)
