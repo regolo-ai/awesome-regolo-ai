@@ -10,6 +10,7 @@
 ## SDK
 
 * [python-client](https://github.com/regolo-ai/python-client) - A simple Python client for interacting with Regolo.ai's LLM-based API by CLI or code.
+* [regolo-ts-client](https://github.com/matteo-brandolino/regolo-ts-client) - A TypeScript SDK and CLI for interacting with Regolo.ai's API — chat, embeddings, image generation, audio transcription, and reranking.
 
 ## Official Integrations
 
