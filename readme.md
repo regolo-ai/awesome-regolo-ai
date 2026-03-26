@@ -18,6 +18,7 @@
 * [MaxKB](https://maxkb.pro/) - MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 * [Dify](https://dify.ai/) - Build production-ready Agentic AI solutions
 * [Gebo.ai](https://gebo.ai/) - Open source enterprise retrieve augmented generation platform
+* [opencode-configs](https://github.com/regolo-ai/opencode-configs) - Includes also oh-my-openagent (former oh-my-opencode)
 
 ## Seamless and Easy Integrations
 
