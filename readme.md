@@ -19,6 +19,8 @@
 * [Dify](https://dify.ai/) - Build production-ready Agentic AI solutions
 * [Gebo.ai](https://gebo.ai/) - Open source enterprise retrieve augmented generation platform
 * [opencode-configs](https://github.com/regolo-ai/opencode-configs) - Includes also oh-my-openagent (former oh-my-opencode)
+* [opencode-regolo](https://github.com/regolo-ai/opencode-regolo) - Plugin to autoconfigure OpenCode for Regolo.AI
+* [n8n-nodes-regolo](https://github.com/regolo-ai/n8n-nodes-regoloai)
 
 ## Seamless and Easy Integrations
 
@@ -52,5 +54,7 @@
 * [Ai Agent SAAS](https://github.com/giux78/ai-agent-saas) - SaaS Starter to accelerate your development and saas journey
 * [SAGIM](https://github.com/teddyhoss/SAGIM) - Piattaforma di intelligenza artificiale progettata per supportare le aziende nella loro espansione e gestione dei mercati globali.
 * [Emergency Management System](https://github.com/matraxone/Emergency-Manager-Project) - Emergency management, featuring AI-powered emergency classification, interactive mapping, and real-time emergency call tracking
+* [log-to-autopatcher](https://github.com/regolo-ai/log-to-autopatcher) - A mini agent in Python
+* [regolo-rubberduck](https://github.com/regolo-ai/regolo-rubberduck) - Test the same prompt on the various Regolo.AI models
 * [PicoCode](https://github.com/CodeAtCode/PicoCode) -  Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally
 * [llama-index-email-demo](https://github.com/regolo-ai/llamaindex-email-demo) - With [blog post](https://regolo.ai/privacy-first-email-search-building-a-rag-system-with-llamaindex/)
