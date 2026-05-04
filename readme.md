@@ -11,6 +11,7 @@
 
 * [python-client](https://github.com/regolo-ai/python-client) - A simple Python client for interacting with Regolo.ai's LLM-based API by CLI or code.
 * [regolo-ts-client](https://github.com/matteo-brandolino/regolo-ts-client) - A TypeScript SDK and CLI for interacting with Regolo.ai's API — chat, embeddings, image generation, audio transcription, and reranking.
+* [laravel-ai-regolo](https://github.com/padosoft/laravel-ai-regolo) - A first-class Regolo provider for Laravel AI, letting Laravel applications use Regolo models through Laravel's official AI SDK.
 
 ## Official Integrations
 
@@ -49,6 +50,9 @@
 * [Chat mii-llm](https://chat.mii-llm.ai/) - A chat application exposing [mii-llm](https://www.mii-llm.ai/) specialized models
 * [TelegramTranscriber](https://github.com/regolo-ai/TelegramTranscriber) - A Telegram bot that transcribe vocal messages
 * [Dialogo](https://github.com/abdelhai/dialogo) - An open-source Chat UI
+* [laravel-ai-chat](https://github.com/padosoft/laravel-ai-chat) - A Laravel and Vercel chat application built with Laravel AI, using Regolo as the default AI client through laravel-ai-regolo.
+* [AskMyDocs](https://github.com/lopadova/AskMyDocs) - A Laravel RAG and document-chat system with hybrid search, reranking, citations, multi-provider AI, and Regolo support for chat and embeddings.
+* [product-image-discovery](https://github.com/padosoft/product_image_discovery) - A Laravel product image discovery and verification package with optional AI candidate verification, using Regolo as the default AI provider through laravel-ai-regolo.
 * [Secure and Private: Transcribing Meeting Recordings with Python](https://regolo.ai/secure-and-private-transcribing-meeting-recordings-with-python-and-regolo-ai/)
 * [Regolex](https://github.com/ploffredi/regolex) - Micro chatbot
 * [Ai Agent SAAS](https://github.com/giux78/ai-agent-saas) - SaaS Starter to accelerate your development and saas journey
