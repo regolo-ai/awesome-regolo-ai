@@ -1,6 +1,21 @@
 # Awesome Regolo.AI
 
-<p align="center"><img src="https://github.com/regolo-ai/assets/blob/main/regolo_logo.png?raw=true" height="200px"></p>
+<div align="center">
+  <img src="https://regolo.ai/wp-content/uploads/2026/06/Regolo_logo_positive.png" alt="Regolo.ai Logo" width="300" />
+</div>
+
+> [!IMPORTANT]  
+> ## Sign Up for 30 Days Free Trial
+> 
+> To power your AI agent, you need an API key. Sign up for Regolo today and get **30 days completely free**, plus a massive **70% discount for the following 3 months!**
+> 
+> 🚀 **[CLICK HERE TO GET STARTED YOUR FREE TRIAL](https://regolo.ai/pricing)** 🚀
+> 
+> ---
+> **Explore Regolo:** [Platform](https://regolo.ai) | [Models Library](https://regolo.ai/models-library/) | [Documentation & Guides](https://regolo.ai/docs) | [YouTube](https://www.youtube.com/@regoloai) | [Discord](https://discord.gg/wHxwWCC8)
+---
+
+Welcome to the **Regolo.ai** Integration repository.
 
 * [SDK](#sdk)
 * [Official Integrations](#official-integrations)
