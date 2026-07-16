@@ -77,3 +77,5 @@ Welcome to the **Regolo.ai** Integration repository.
 * [regolo-rubberduck](https://github.com/regolo-ai/regolo-rubberduck) - Test the same prompt on the various Regolo.AI models
 * [PicoCode](https://github.com/CodeAtCode/PicoCode) -  Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally
 * [llama-index-email-demo](https://github.com/regolo-ai/llamaindex-email-demo) - With [blog post](https://regolo.ai/privacy-first-email-search-building-a-rag-system-with-llamaindex/)
+* [TalkToMyExcel](https://github.com/daniloercoli/TalkToMyExcel) - AI assistant for Excel, CSV and tabular business data, with DuckDB, Chroma and Docker sandboxing. 
+* [](https://github.com/CodeAtCode/baco-scanner) - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing 
