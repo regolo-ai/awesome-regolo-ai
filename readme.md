@@ -37,6 +37,7 @@ Welcome to the **Regolo.ai** Integration repository.
 * [opencode-configs](https://github.com/regolo-ai/opencode-configs) - Includes also oh-my-openagent (former oh-my-opencode)
 * [opencode-regolo](https://github.com/regolo-ai/opencode-regolo) - Plugin to autoconfigure OpenCode for Regolo.AI
 * [n8n-nodes-regolo](https://github.com/regolo-ai/n8n-nodes-regoloai)
+* [maki](https://github.com/tontinton/maki) - An AI coding agent optimized for minimal use of context tokens, while providing a great user experience.
 
 ## Seamless and Easy Integrations
 
