@@ -38,6 +38,11 @@ Welcome to the **Regolo.ai** Integration repository.
 * [opencode-regolo](https://github.com/regolo-ai/opencode-regolo) - Plugin to autoconfigure OpenCode for Regolo.AI
 * [n8n-nodes-regolo](https://github.com/regolo-ai/n8n-nodes-regoloai)
 * [maki](https://github.com/tontinton/maki) - An AI coding agent optimized for minimal use of context tokens, while providing a great user experience.
+* [TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
+* [https://github.com/moeru-ai/xsai](https://github.com/moeru-ai/xsai) - extra-small AI SDK.
+* [https://github.com/SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub
+* [https://github.com/ailinone/collective-intelligence](https://github.com/ailinone/collective-intelligence) - Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.
+* [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) -  Free MIT AI gateway: one endpoint, 359 providers 
 
 ## Seamless and Easy Integrations
 
