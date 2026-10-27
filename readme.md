@@ -42,7 +42,8 @@ Welcome to the **Regolo.ai** Integration repository.
 * [https://github.com/moeru-ai/xsai](https://github.com/moeru-ai/xsai) - extra-small AI SDK.
 * [https://github.com/SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub
 * [https://github.com/ailinone/collective-intelligence](https://github.com/ailinone/collective-intelligence) - Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.
-* [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) -  Free MIT AI gateway: one endpoint, 359 providers 
+* [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) -  Free MIT AI gateway: one endpoint, 359 providers
+* [Omnesis](https://omnesis.dev/) - A personal data substrate that gives AI agents (and you) instant recall across email, messages, notes, calendar, health, files, and more. Everything stays on your hardware.
 
 ## Seamless and Easy Integrations
 
